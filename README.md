@@ -62,6 +62,10 @@ To connect to Nx Cloud, run the following command:
 npx nx connect
 ```
 
+```sh 
+npx nx run meli-backend:serve
+```
+
 Connecting to Nx Cloud ensures a [fast and scalable CI](https://nx.dev/ci/intro/why-nx-cloud?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) pipeline. It includes features such as:
 
 - [Remote caching](https://nx.dev/ci/features/remote-cache?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
